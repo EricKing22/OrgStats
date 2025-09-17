@@ -1,0 +1,398 @@
+### **模型**  
+1. **InternVL**  
+   分类：模型  
+   star数字：9036  
+   最后更新时间：2025-09-06  
+   项目描述：[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的开源多模态对话模型  
+   url: https://github.com/OpenGVLab/InternVL  
+
+2. **LLaMA-Adapter**  
+   分类：模型  
+   star数字：5895  
+   最后更新时间：2025-09-04  
+   项目描述：[ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters  
+   url: https://github.com/OpenGVLab/LLaMA-Adapter  
+
+3. **DragGAN**  
+   分类：模型  
+   star数字：4981  
+   最后更新时间：2025-09-03  
+   项目描述：Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）  
+   url: https://github.com/OpenGVLab/DragGAN  
+
+4. **InternImage**  
+   分类：模型  
+   star数字：2727  
+   最后更新时间：2025-09-05  
+   项目描述：[CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions  
+   url: https://github.com/OpenGVLab/InternImage  
+
+5. **Ask-Anything**  
+   分类：模型  
+   star数字：3297  
+   最后更新时间：2025-09-03  
+   项目描述：[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.  
+   url: https://github.com/OpenGVLab/Ask-Anything  
+
+6. **InternGPT**  
+   分类：模型  
+   star数字：3217  
+   最后更新时间：2025-09-02  
+   项目描述：InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc.  
+   url: https://github.com/OpenGVLab/InternGPT  
+
+7. **InternVideo**  
+   分类：模型  
+   star数字：2036  
+   最后更新时间：2025-09-05  
+   项目描述：[ECCV2024] Video Foundation Models & Data for Multimodal Understanding  
+   url: https://github.com/OpenGVLab/InternVideo  
+
+8. **VisionLLM**  
+   分类：模型  
+   star数字：1103  
+   最后更新时间：2025-09-04  
+   项目描述：VisionLLM Series  
+   url: https://github.com/OpenGVLab/VisionLLM  
+
+9. **VideoMamba**  
+   分类：模型  
+   star数字：990  
+   最后更新时间：2025-09-02  
+   项目描述：[ECCV2024] VideoMamba: State Space Model for Efficient Video Understanding  
+   url: https://github.com/OpenGVLab/VideoMamba  
+
+10. **OmniQuant**  
+    分类：模型  
+    star数字：845  
+    最后更新时间：2025-09-06  
+    项目描述：[ICLR2024 spotlight] OmniQuant is a simple and powerful quantization technique for LLMs.  
+    url: https://github.com/OpenGVLab/OmniQuant  
+
+11. **SAM-Med2D**  
+    分类：模型  
+    star数字：1031  
+    最后更新时间：2025-09-04  
+    项目描述：Official implementation of SAM-Med2D  
+    url: https://github.com/OpenGVLab/SAM-Med2D  
+
+12. **VideoMAEv2**  
+    分类：模型  
+    star数字：676  
+    最后更新时间：2025-08-27  
+    项目描述：[CVPR 2023] VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking  
+    url: https://github.com/OpenGVLab/VideoMAEv2  
+
+13. **GITM**  
+    分类：模型  
+    star数字：633  
+    最后更新时间：2025-09-03  
+    项目描述：Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory  
+    url: https://github.com/OpenGVLab/GITM  
+
+14. **UniFormerV2**  
+    分类：模型  
+    star数字：327  
+    最后更新时间：2025-08-26  
+    项目描述：[ICCV2023] UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer  
+    url: https://github.com/OpenGVLab/UniFormerV2  
+
+15. **CaFo**  
+    分类：模型  
+    star数字：377  
+    最后更新时间：2025-09-05  
+    项目描述：[CVPR 2023] Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners  
+    url: https://github.com/OpenGVLab/CaFo  
+
+16. **all-seeing**  
+    分类：模型  
+    star数字：495  
+    最后更新时间：2025-08-23  
+    项目描述：[ICLR 2024 & ECCV 2024] The All-Seeing Projects: Towards Panoptic Visual Recognition&Understanding and General Relation Comprehension of the Open World  
+    url: https://github.com/OpenGVLab/all-seeing  
+
+17. **LAMM**  
+    分类：模型  
+    star数字：317  
+    最后更新时间：2025-08-20  
+    项目描述：[NeurIPS 2023 Datasets and Benchmarks Track] LAMM: Multi-Modal Large Language Models and Applications as AI Agents  
+    url: https://github.com/OpenGVLab/LAMM  
+
+18. **unmasked_teacher**  
+    分类：模型  
+    star数字：337  
+    最后更新时间：2025-08-29  
+    项目描述：[ICCV2023 Oral] Unmasked Teacher: Towards Training-Efficient Video Foundation Models  
+    url: https://github.com/OpenGVLab/unmasked_teacher  
+
+19. **Vision-RWKV**  
+    分类：模型  
+    star数字：493  
+    最后更新时间：2025-09-06  
+    项目描述：[ICLR 2025 Spotlight] Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures  
+    url: https://github.com/OpenGVLab/Vision-RWKV  
+
+20. **M3I-Pretraining**  
+    分类：模型  
+    star数字：91  
+    最后更新时间：2025-09-05  
+    项目描述：[CVPR 2023] implementation of Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information.  
+    url: https://github.com/OpenGVLab/M3I-Pretraining  
+
+21. **MM-Interleaved**  
+    分类：模型  
+    star数字：240  
+    最后更新时间：2025-09-01  
+    项目描述：MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer  
+    url: https://github.com/OpenGVLab/MM-Interleaved  
+
+22. **VideoChat-Flash**  
+    分类：模型  
+    star数字：463  
+    最后更新时间：2025-09-06  
+    项目描述：VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling  
+    url: https://github.com/OpenGVLab/VideoChat-Flash  
+
+23. **Mono-InternVL**  
+    分类：模型  
+    star数字：81  
+    最后更新时间：2025-09-05  
+    项目描述：[CVPR 2025] Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training  
+    url: https://github.com/OpenGVLab/Mono-InternVL  
+
+---
+
+### **数据集**  
+1. **gv-benchmark**  
+   分类：数据集  
+   star数字：189  
+   最后更新时间：2024-09-13  
+   项目描述：General Vision Benchmark, GV-B, a project from OpenGVLab  
+   url: https://github.com/OpenGVLab/gv-benchmark  
+
+2. **EgoExoLearn**  
+   分类：数据集  
+   star数字：69  
+   最后更新时间：2025-09-02  
+   项目描述：[CVPR 2024] Data and benchmark code for the EgoExoLearn dataset  
+   url: https://github.com/OpenGVLab/EgoExoLearn  
+
+3. **OmniCorpus**  
+   分类：数据集  
+   star数字：391  
+   最后更新时间：2025-09-05  
+   项目描述：[ICLR 2025 Spotlight] OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text  
+   url: https://github.com/OpenGVLab/OmniCorpus  
+
+4. **MMT-Bench**  
+   分类：数据集  
+   star数字：113  
+   最后更新时间：2025-07-30  
+   项目描述：[ICML 2024] | MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI  
+   url: https://github.com/OpenGVLab/MMT-Bench  
+
+5. **MM-NIAH**  
+   分类：数据集  
+   star数字：115  
+   最后更新时间：2025-08-14  
+   项目描述：[NeurIPS 2024] Needle In A Multimodal Haystack (MM-NIAH): A comprehensive benchmark designed to systematically evaluate the capability of existing MLLMs to comprehend long multimodal documents.  
+   url: https://github.com/OpenGVLab/MM-NIAH  
+
+6. **GUI-Odyssey**  
+   分类：数据集  
+   star数字：129  
+   最后更新时间：2025-09-04  
+   项目描述：[ICCV 2025] GUIOdyssey is a comprehensive dataset for training and evaluating cross-app navigation agents.  
+   url: https://github.com/OpenGVLab/GUI-Odyssey  
+
+7. **PhyGenBench**  
+   分类：数据集  
+   star数字：117  
+   最后更新时间：2025-08-07  
+   项目描述：[ICML2025] The code and data of Paper: Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation  
+   url: https://github.com/OpenGVLab/PhyGenBench  
+
+---
+
+### **工具**  
+1. **Multi-Modality-Arena**  
+   分类：工具  
+   star数字：535  
+   最后更新时间：2025-08-24  
+   项目描述：Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!  
+   url: https://github.com/OpenGVLab/Multi-Modality-Arena  
+
+2. **Instruct2Act**  
+   分类：工具  
+   star数字：369  
+   最后更新时间：2025-09-02  
+   项目描述：Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model  
+   url: https://github.com/OpenGVLab/Instruct2Act  
+
+3. **DiffRate**  
+   分类：工具  
+   star数字：100  
+   最后更新时间：2025-09-05  
+   项目描述：[ICCV 23]An approach to enhance the efficiency of Vision Transformer (ViT) by concurrently employing token pruning and token merging techniques, while incorporating a differentiable compression rate.  
+   url: https://github.com/OpenGVLab/DiffRate  
+
+4. **ControlLLM**  
+   分类：工具  
+   star数字：193  
+   最后更新时间：2025-07-14  
+   项目描述：ControlLLM: Augment Language Models with Tools by Searching on Graphs  
+   url: https://github.com/OpenGVLab/ControlLLM  
+
+5. **Awesome-DragGAN**  
+   分类：工具  
+   star数字：85  
+   最后更新时间：2025-06-15  
+   项目描述：Awesome-DragGAN: A curated list of papers, tutorials, repositories related to DragGAN  
+   url: https://github.com/OpenGVLab/Awesome-DragGAN  
+
+6. **Awesome-LLM4Tool**  
+   分类：工具  
+   star数字：68  
+   最后更新时间：2025-08-07  
+   项目描述：A curated list of the papers, repositories, tutorials, and anythings related to the large language models for tools  
+   url: https://github.com/OpenGVLab/Awesome-LLM4Tool  
+
+7. **ZeroGUI**  
+   分类：工具  
+   star数字：85  
+   最后更新时间：2025-09-01  
+   项目描述：ZeroGUI: Automating Online GUI Learning at Zero Human Cost  
+   url: https://github.com/OpenGVLab/ZeroGUI  
+
+---
+
+### **其他**  
+1. **HumanBench**  
+   分类：其他  
+   star数字：247  
+   最后更新时间：2025-06-16  
+   项目描述：This repo is official implementation of HumanBench (CVPR2023)  
+   url: https://github.com/OpenGVLab/HumanBench  
+
+2. **UniHCP**  
+   分类：其他  
+   star数字：156  
+   最后更新时间：2025-07-29  
+   项目描述：Official PyTorch implementation of UniHCP  
+   url: https://github.com/OpenGVLab/UniHCP  
+
+3. **LORIS**  
+   分类：其他  
+   star数字：61  
+   最后更新时间：2025-08-28  
+   项目描述：[ICML2023] Long-Term Rhythmic Video Soundtracker  
+   url: https://github.com/OpenGVLab/LORIS  
+
+4. **MUTR**  
+   分类：其他  
+   star数字：82  
+   最后更新时间：2025-08-07  
+   项目描述：「AAAI 2024」 Referred by Multi-Modality: A Unified Temporal Transformers for Video Object Segmentation  
+   url: https://github.com/OpenGVLab/MUTR  
+
+5. **DDPS**  
+   分类：其他  
+   star数字：72  
+   最后更新时间：2025-08-18  
+   项目描述：Official Implementation of "Denoising Diffusion Semantic Segmentation with Mask Prior Modeling"  
+   url: https://github.com/OpenGVLab/DDPS  
+
+6. **DCNv4**  
+   分类：其他  
+   star数字：664  
+   最后更新时间：2025-09-05  
+   项目描述：[CVPR 2024] Deformable Convolution v4  
+   url: https://github.com/OpenGVLab/DCNv4  
+
+7. **ChartAst**  
+   分类：其他  
+   star数字：124  
+   最后更新时间：2025-08-31  
+   项目描述：[ACL 2024] ChartAssistant is a chart-based vision-language model for universal chart comprehension and reasoning.  
+   url: https://github.com/OpenGVLab/ChartAst  
+
+8. **Hulk**  
+   分类：其他  
+   star数字：137  
+   最后更新时间：2025-08-22  
+   项目描述：An official implementation of "Hulk: A Universal Knowledge Translator for Human-Centric Tasks"  
+   url: https://github.com/OpenGVLab/Hulk  
+
+9. **PonderV2**  
+   分类：其他  
+   star数字：359  
+   最后更新时间：2025-08-15  
+   项目描述：[T-PAMI 2025] PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm  
+   url: https://github.com/OpenGVLab/PonderV2  
+
+10. **LCL**  
+    分类：其他  
+    star数字：70  
+    最后更新时间：2025-08-12  
+    项目描述：[NeurIPS 2024] Vision Model Pre-training on Interleaved Image-Text Data via Latent Compression Learning  
+    url: https://github.com/OpenGVLab/LCL  
+
+11. **EfficientQAT**  
+    分类：其他  
+    star数字：300  
+    最后更新时间：2025-09-05  
+    项目描述：[ACL 2025 Main] EfficientQAT: Efficient Quantization-Aware Training for Large Language Models  
+    url: https://github.com/OpenGVLab/EfficientQAT  
+
+12. **Diffree**  
+    分类：其他  
+    star数字：239  
+    最后更新时间：2025-08-04  
+    项目描述：Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model  
+    url: https://github.com/OpenGVLab/Diffree  
+
+13. **MMIU**  
+    分类：其他  
+    star数字：86  
+    最后更新时间：2025-09-02  
+    项目描述：[ICLR2025] MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models  
+    url: https://github.com/OpenGVLab/MMIU  
+
+14. **vinci**  
+    分类：其他  
+    star数字：71  
+    最后更新时间：2025-09-02  
+    项目描述：Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model  
+    url: https://github.com/OpenGVLab/vinci  
+
+15. **V2PE**  
+    分类：其他  
+    star数字：56  
+    最后更新时间：2025-09-06  
+    项目描述：[ArXiv] V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding  
+    url: https://github.com/OpenGVLab/V2PE  
+
+16. **TPO**  
+    分类：其他  
+    star数字：58  
+    最后更新时间：2025-09-03  
+    项目描述：Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment  
+    url: https://github.com/OpenGVLab/TPO  
+
+17. **VideoChat-R1**  
+    分类：其他  
+    star数字：182  
+    最后更新时间：2025-09-05  
+    项目描述：VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning  
+    url: https://github.com/OpenGVLab/VideoChat-R1  
+
+18. **VeBrain**  
+    分类：其他  
+    star数字：80  
+    最后更新时间：2025-08-31  
+    项目描述：Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces  
+    url: https://github.com/OpenGVLab/VeBrain  
+
+--- 
+
+注：`efficient-video-recognition`、`STM-Evaluation`、`DriveMLM` 因无描述或更新时间不符合要求被省略。

@@ -1,0 +1,50 @@
+**DISC-LawLLM**  
+分类：1. 模型（中文法律大模型）  
+star数字：777  
+最后更新时间：2025-09-05  
+项目描述：[中文法律大模型] DISC-LawLLM: an intelligent legal system powered by large language models (LLMs) to provide a wide range of legal services.  
+url: https://github.com/FudanDISC/DISC-LawLLM  
+
+---
+
+**DISC-FinLLM**  
+分类：1. 模型（中文金融大语言模型）  
+star数字：768  
+最后更新时间：2025-09-03  
+项目描述：DISC-FinLLM，中文金融大语言模型（LLM），旨在为用户提供金融场景下专业、智能、全面的金融咨询服务。  
+url: https://github.com/FudanDISC/DISC-FinLLM  
+
+---
+
+**DISC-MedLLM**  
+分类：1. 模型（医疗大语言模型）  
+star数字：550  
+最后更新时间：2025-08-14  
+项目描述：Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.  
+url: https://github.com/FudanDISC/DISC-MedLLM  
+
+---
+
+**SocialAgent**  
+分类：4. 其他（社交智能体资源集合）  
+star数字：179  
+最后更新时间：2025-09-05  
+项目描述：A collection of resources that investigate social agents.  
+url: https://github.com/FudanDISC/SocialAgent  
+
+---
+
+**SocioVerse**  
+分类：4. 其他（无描述，暂归类）  
+star数字：119  
+最后更新时间：2025-09-05  
+项目描述：None  
+url: https://github.com/FudanDISC/SocioVerse  
+
+
+--- 
+
+注：  
+1. `DISCOpen-MedBox-DialoDiagnosis`的star数量为23，但因其描述明确提到工具属性，优先归类到**工具**而非数据集。  
+2. `SocioVerse`因无描述暂归类为**其他**。  
+3. 所有项目均满足`updated_at` ≥ 2023年的条件。

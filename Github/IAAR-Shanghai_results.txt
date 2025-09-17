@@ -1,0 +1,106 @@
+**SurveyX**  
+分类：4. 其他  
+star数字：898  
+最后更新时间：2025-09-04T12:12:42Z  
+项目描述：Academic Survey Paper Generation.  
+url: https://github.com/IAAR-Shanghai/SurveyX  
+
+---
+
+**Awesome-Attention-Heads**  
+分类：3. 工具  
+star数字：361  
+最后更新时间：2025-09-04T13:59:08Z  
+项目描述：An awesome repository & A comprehensive survey on interpretability of LLM attention heads.  
+url: https://github.com/IAAR-Shanghai/Awesome-Attention-Heads  
+
+---
+
+**CRUD_RAG**  
+分类：2. 数据集  
+star数字：328  
+最后更新时间：2025-08-26T03:16:24Z  
+项目描述：CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models.  
+url: https://github.com/IAAR-Shanghai/CRUD_RAG  
+
+---
+
+**Meta-Chunking**  
+分类：3. 工具  
+star数字：246  
+最后更新时间：2025-09-02T09:35:41Z  
+项目描述：Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception.  
+url: https://github.com/IAAR-Shanghai/Meta-Chunking  
+
+---
+
+**CTGSurvey**  
+分类：4. 其他  
+star数字：185  
+最后更新时间：2025-08-12T13:36:54Z  
+项目描述：Controllable Text Generation for Large Language Models: A Survey.  
+url: https://github.com/IAAR-Shanghai/CTGSurvey  
+
+---
+
+**xFinder**  
+分类：3. 工具  
+star数字：177  
+最后更新时间：2025-08-28T01:04:17Z  
+项目描述：[ICLR 2025] xFinder: Large Language Models as Automated Evaluators for Reliable Evaluation.  
+url: https://github.com/IAAR-Shanghai/xFinder  
+
+---
+
+**UHGEval**  
+分类：2. 数据集  
+star数字：174  
+最后更新时间：2025-09-03T01:50:14Z  
+项目描述：[ACL 2024] User-friendly evaluation framework: Eval Suite & Benchmarks: UHGEval, HaluEval, HalluQA, etc.  
+url: https://github.com/IAAR-Shanghai/UHGEval  
+
+---
+
+**QAEncoder**  
+分类：1. 模型  
+star数字：175  
+最后更新时间：2025-09-02T09:35:40Z  
+项目描述：[ACL 2025 Oral] QAEncoder: Towards Aligned Representation Learning in Question Answering Systems.  
+url: https://github.com/IAAR-Shanghai/QAEncoder  
+
+---
+
+**ICSFSurvey**  
+分类：4. 其他  
+star数字：169  
+最后更新时间：2025-08-13T00:22:01Z  
+项目描述：Explore concepts like Self-Correct, Self-Refine, Self-Improve, Self-Contradict, Self-Play, and Self-Knowledge, alongside o1-like reasoning elevation🍓 and hallucination alleviation🍄.  
+url: https://github.com/IAAR-Shanghai/ICSFSurvey  
+
+---
+
+**xVerify**  
+分类：3. 工具  
+star数字：128  
+最后更新时间：2025-08-21T03:05:33Z  
+项目描述：xVerify: Efficient Answer Verifier for Reasoning Model Evaluations.  
+url: https://github.com/IAAR-Shanghai/xVerify  
+
+---
+
+**Grimoire**  
+分类：1. 模型  
+star数字：117  
+最后更新时间：2025-09-02T16:13:40Z  
+项目描述：Grimoire is All You Need for Enhancing Large Language Models.  
+url: https://github.com/IAAR-Shanghai/Grimoire  
+
+---
+
+**PGRAG**  
+分类：4. 其他  
+star数字：53  
+最后更新时间：2025-08-06T14:36:06Z  
+项目描述：PGRAG.  
+url: https://github.com/IAAR-Shanghai/PGRAG  
+

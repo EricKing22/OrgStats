@@ -1,0 +1,13 @@
+**sensenova/piccolo-large-zh**  
+分类：模型  
+like数：68  
+download数：542  
+最后更新时间：None  
+url: https://huggingface.co/sensenova/piccolo-large-zh  
+
+**sensenova/piccolo-large-zh-v2**  
+分类：模型  
+like数：68  
+download数：17  
+最后更新时间：None  
+url: https://huggingface.co/sensenova/piccolo-large-zh-v2  

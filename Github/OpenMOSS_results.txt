@@ -1,0 +1,96 @@
+**MOSS**  
+分类：模型  
+star数字：12060  
+最后更新时间：2025-09-06  
+项目描述：复旦大学开源的增强工具对话语言模型。  
+url: https://github.com/OpenMOSS/MOSS  
+
+---
+
+**MOSS-TTSD**  
+分类：模型  
+star数字：941  
+最后更新时间：2025-09-05  
+项目描述：支持中英文表达性对话语音合成的模型，具备零样本多说话人克隆和长文本生成能力。  
+url: https://github.com/OpenMOSS/MOSS-TTSD  
+
+---
+
+**AnyGPT**  
+分类：模型  
+star数字：861  
+最后更新时间：2025-09-05  
+项目描述：基于离散序列建模的统一多模态大语言模型。  
+url: https://github.com/OpenMOSS/AnyGPT  
+
+---
+
+**CoLLiE**  
+分类：工具  
+star数字：416  
+最后更新时间：2025-08-20  
+项目描述：高效协作训练大语言模型的方法。  
+url: https://github.com/OpenMOSS/CoLLiE  
+
+---
+
+**SpeechGPT-2.0-preview**  
+分类：模型  
+star数字：354  
+最后更新时间：2025-09-02  
+项目描述：达到GPT-4o水平的实时口语对话系统。  
+url: https://github.com/OpenMOSS/SpeechGPT-2.0-preview  
+
+---
+
+**VLABench**  
+分类：数据集  
+star数字：283  
+最后更新时间：2025-09-04  
+项目描述：用于公平评估视觉语言代理（VLA）、具身智能体和多模态模型的大规模基准。  
+url: https://github.com/OpenMOSS/VLABench  
+
+---
+
+**Language-Model-SAEs**  
+分类：工具  
+star数字：146  
+最后更新时间：2025-08-30  
+项目描述：专注于稀疏自编码器（SAE）在语言模型可解释性中的研究工具。  
+url: https://github.com/OpenMOSS/Language-Model-SAEs  
+
+---
+
+**HalluQA**  
+分类：数据集  
+star数字：132  
+最后更新时间：2025-08-07  
+项目描述：用于评估中文大语言模型幻觉现象的数据集和脚本。  
+url: https://github.com/OpenMOSS/HalluQA  
+
+---
+
+**Say-I-Dont-Know**  
+分类：其他  
+star数字：83  
+最后更新时间：2025-08-14  
+项目描述：研究AI助手能否识别自身知识盲区的项目（ICML 2024）。  
+url: https://github.com/OpenMOSS/Say-I-Dont-Know  
+
+---
+
+**GAOKAO-MM**  
+分类：数据集  
+star数字：65  
+最后更新时间：2025-08-07  
+项目描述：中文多模态模型评估基准（ACL 2024 Findings）。  
+url: https://github.com/OpenMOSS/GAOKAO-MM  
+
+---
+
+**Thus-Spake-Long-Context-LLM**  
+分类：其他  
+star数字：56  
+最后更新时间：2025-08-20  
+项目描述：从架构、基础设施、训练和评估四个角度分析长上下文大语言模型的综述。  
+url: https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM  

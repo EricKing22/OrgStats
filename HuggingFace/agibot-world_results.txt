@@ -1,0 +1,42 @@
+**agibot-world/AgiBotWorld-Beta**  
+分类：数据集  
+like数：34  
+download数：37482  
+最后更新时间：2025-04-12T08:41:06.000Z  
+url: https://huggingface.co/datasets/agibot-world/AgiBotWorld-Beta  
+
+**agibot-world/AgiBotWorld-Alpha**  
+分类：数据集  
+like数：198  
+download数：5777  
+最后更新时间：2025-07-10T11:49:26.000Z  
+url: https://huggingface.co/datasets/agibot-world/AgiBotWorld-Alpha  
+
+**agibot-world/AgiBotWorldChallenge-2025**  
+分类：数据集  
+like数：17  
+download数：6432  
+最后更新时间：2025-08-29T03:13:25.000Z  
+url: https://huggingface.co/datasets/agibot-world/AgiBotWorldChallenge-2025  
+
+**agibot-world/AgiBotDigitalWorld**  
+分类：数据集  
+like数：34  
+download数：5311  
+最后更新时间：2025-02-27T01:38:57.000Z  
+url: https://huggingface.co/datasets/agibot-world/AgiBotDigitalWorld  
+
+**agibot-world/GenieSimAssets**  
+分类：数据集  
+like数：12  
+download数：2220  
+最后更新时间：2025-07-14T12:38:00.000Z  
+url: https://huggingface.co/datasets/agibot-world/GenieSimAssets  
+
+**agibot-world/EWMBench**  
+分类：数据集  
+like数：0  
+download数：230  
+最后更新时间：2025-05-16T03:59:50.000Z  
+url: https://huggingface.co/datasets/agibot-world/EWMBench  
+

@@ -1,0 +1,57 @@
+**PillarNet-LTS**  
+分类：1. 模型（3D物体检测模型）  
+star数字：223  
+最后更新时间：2025-09-06  
+项目描述：[ECCV 2022] PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection  
+url: https://github.com/VISION-SJTU/PillarNet-LTS  
+
+**RECCE**  
+分类：1. 模型（人脸伪造检测模型）  
+star数字：147  
+最后更新时间：2025-09-06  
+项目描述：[CVPR2022] End-to-End Reconstruction-Classification Learning for Face Forgery Detection  
+url: https://github.com/VISION-SJTU/RECCE  
+
+**Lightning-NeRF**  
+分类：1. 模型（神经辐射场模型）  
+star数字：117  
+最后更新时间：2025-07-06  
+项目描述：[ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving  
+url: https://github.com/VISION-SJTU/Lightning-NeRF  
+
+**PointAugmenting**  
+分类：1. 模型（3D物体检测模型）  
+star数字：114  
+最后更新时间：2025-08-27  
+项目描述：[CVPR2021] PointAugmenting: Cross-Modal Augmentation for 3D Object Detection  
+url: https://github.com/VISION-SJTU/PointAugmenting  
+
+**3dSwap**  
+分类：1. 模型（3D人脸交换模型）  
+star数字：86  
+最后更新时间：2025-07-11  
+项目描述：[CVPR 2023] 3D-Aware Face Swapping  
+url: https://github.com/VISION-SJTU/3dSwap  
+
+**USOT**  
+分类：1. 模型（视觉目标跟踪模型）  
+star数字：64  
+最后更新时间：2025-08-20  
+项目描述：[ICCV2021] Learning to Track Objects from Unlabeled Videos  
+url: https://github.com/VISION-SJTU/USOT  
+
+**SparseOcc**  
+分类：1. 模型（语义占据预测模型）  
+star数字：64  
+最后更新时间：2025-08-30  
+项目描述：Official implementation for 'SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction' (CVPR 2024)  
+url: https://github.com/VISION-SJTU/SparseOcc  
+
+**IoUattack**  
+分类：3. 工具（对抗攻击工具）  
+star数字：53  
+最后更新时间：2025-07-08  
+项目描述：[CVPR2021] IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking  
+url: https://github.com/VISION-SJTU/IoUattack  
+
+注：所有项目的updated_at都在2023年之后，因此没有项目被省略。

@@ -1,0 +1,28 @@
+**rethinklab/Bench2Drive-Full**  
+分类：数据集  
+like数：2  
+download数：13220  
+最后更新时间：2024-07-22T06:46:56.000Z  
+url: https://huggingface.co/rethinklab/Bench2Drive-Full  
+
+**rethinklab/Bench2Drive**  
+分类：数据集  
+like数：14  
+download数：6615  
+最后更新时间：2024-08-14T08:21:30.000Z  
+url: https://huggingface.co/rethinklab/Bench2Drive  
+
+**rethinklab/Bench2Drive-Full-Sup**  
+分类：数据集  
+like数：0  
+download数：4316  
+最后更新时间：2024-07-10T05:45:34.000Z  
+url: https://huggingface.co/rethinklab/Bench2Drive-Full-Sup  
+
+**rethinklab/Bench2Drive-Map**  
+分类：数据集  
+like数：3  
+download数：220  
+最后更新时间：2024-06-05T12:19:53.000Z  
+url: https://huggingface.co/rethinklab/Bench2Drive-Map  
+

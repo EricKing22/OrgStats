@@ -1,0 +1,186 @@
+分类，url, 项目名称, star数量
+2. 数据集,https://github.com/4paradigm/OpenMLDB,OpenMLDB,1662
+3. 工具,https://github.com/4paradigm/k8s-vgpu-scheduler,k8s-vgpu-scheduler,572
+3. 工具,https://github.com/4paradigm/AutoX,AutoX,539
+4. 其他,https://github.com/4paradigm/openaios-platform,openaios-platform,98
+4. 其他,https://github.com/4paradigm/pafka,pafka,67
+
+1. 模型,https://github.com/AgibotTech/agibot_x1_infer,agibot_x1_infer,1717
+1. 模型,https://github.com/AgibotTech/agibot_x1_train,agibot_x1_train,1563
+1. 模型,https://github.com/AgibotTech/EnerVerse-AC,EnerVerse-AC,111
+4. 其他,https://github.com/AgibotTech/agibot_x1_hardware,agibot_x1_hardware,978
+4. 其他,https://github.com/AgibotTech/Genie-Envisioner,Genie-Envisioner,240
+3. 工具,https://github.com/AgibotTech/genie_sim,genie_sim,273
+2. 数据集,https://github.com/AgibotTech/EWMBench,EWMBench,82
+
+
+工具,https://github.com/FFTAI/teleoperation,teleoperation,122
+工具,https://github.com/FFTAI/Wiki-GRx-Deploy,Wiki-GRx-Deploy,112
+工具,https://github.com/FFTAI/Wiki-GRx-MJCF,Wiki-GRx-MJCF,53
+其他,https://github.com/FFTAI/fourier-lerobot,fourier-lerobot,67
+其他,https://github.com/FFTAI/Wiki-GRx-Gym,Wiki-GRx-Gym,55
+其他,https://github.com/FFTAI/Wiki-GRx-Pipeline,Wiki-GRx-Pipeline,50
+
+模型,https://github.com/fudan-generative-vision/hallo,hallo,8571
+模型,https://github.com/fudan-generative-vision/champ,champ,4232
+模型,https://github.com/fudan-generative-vision/hallo2,hallo2,3600
+模型,https://github.com/fudan-generative-vision/hallo3,hallo3,1302
+模型,https://github.com/fudan-generative-vision/DicFace,DicFace,435
+数据集,https://github.com/fudan-generative-vision/dynamicPDB,dynamicPDB,762
+数据集,https://github.com/fudan-generative-vision/OpenHumanVid,OpenHumanVid,274
+
+1. 模型（中文法律大模型）,https://github.com/FudanDISC/DISC-LawLLM,DISC-LawLLM,777
+1. 模型（中文金融大语言模型）,https://github.com/FudanDISC/DISC-FinLLM,DISC-FinLLM,768
+1. 模型（医疗大语言模型）,https://github.com/FudanDISC/DISC-MedLLM,DISC-MedLLM,550
+4. 其他（社交智能体资源集合）,https://github.com/FudanDISC/SocialAgent,SocialAgent,179
+4. 其他（无描述，暂归类）,https://github.com/FudanDISC/SocioVerse,SocioVerse,119
+
+4. 其他,https://github.com/IAAR-Shanghai/SurveyX,SurveyX,898  
+4. 其他,https://github.com/IAAR-Shanghai/CTGSurvey,CTGSurvey,185  
+4. 其他,https://github.com/IAAR-Shanghai/ICSFSurvey,ICSFSurvey,169  
+4. 其他,https://github.com/IAAR-Shanghai/PGRAG,PGRAG,53  
+3. 工具,https://github.com/IAAR-Shanghai/Awesome-Attention-Heads,Awesome-Attention-Heads,361  
+3. 工具,https://github.com/IAAR-Shanghai/Meta-Chunking,Meta-Chunking,246  
+3. 工具,https://github.com/IAAR-Shanghai/xFinder,xFinder,177  
+3. 工具,https://github.com/IAAR-Shanghai/xVerify,xVerify,128  
+2. 数据集,https://github.com/IAAR-Shanghai/CRUD_RAG,CRUD_RAG,328  
+2. 数据集,https://github.com/IAAR-Shanghai/UHGEval,UHGEval,174  
+1. 模型,https://github.com/IAAR-Shanghai/QAEncoder,QAEncoder,175  
+1. 模型,https://github.com/IAAR-Shanghai/Grimoire,Grimoire,117
+
+其他,https://github.com/infinigence/Infini-Megrez,Infini-Megrez,326
+其他,https://github.com/infinigence/Infini-Megrez-Omni,Infini-Megrez-Omni,239
+工具,https://github.com/infinigence/FlashOverlap,FlashOverlap,161
+工具,https://github.com/infinigence/Semi-PD,Semi-PD,107
+数据集,https://github.com/infinigence/LVEval,LVEval,70
+
+
+3. 工具（机器人动态控制软件包）,https://github.com/loongOpen/OpenLoong-Dyn-Control,OpenLoong-Dyn-Control,215  
+3. 工具（强化学习开发工具包）,https://github.com/loongOpen/Unity-RL-Playground,Unity-RL-Playground,151  
+3. 工具（机器人训练平台）,https://github.com/loongOpen/OpenLoong-Gymloong,OpenLoong-Gymloong,70
+
+工具,https://github.com/MemTensor/MemOS,MemOS,2413
+
+模型,https://github.com/MiniMax-AI/MiniMax-M1,MiniMax-M1,2844
+模型,https://github.com/MiniMax-AI/MiniMax-01,MiniMax-01,3137
+工具,https://github.com/MiniMax-AI/MiniMax-MCP,MiniMax-MCP,932
+工具,https://github.com/MiniMax-AI/awesome-minimax-integrations,awesome-minimax-integrations,54
+工具,https://github.com/MiniMax-AI/MiniMax-MCP-JS,MiniMax-MCP-JS,81
+其他,https://github.com/MiniMax-AI/One-RL-to-See-Them-All,One-RL-to-See-Them-All,311
+其他,https://github.com/MiniMax-AI/SynLogic,SynLogic,163
+其他,https://github.com/MiniMax-AI/MiniMax-AI.github.io,MiniMax-AI.github.io,52
+
+模型,https://github.com/OpenGVLab/InternVL,InternVL,9036
+模型,https://github.com/OpenGVLab/LLaMA-Adapter,LLaMA-Adapter,5895
+模型,https://github.com/OpenGVLab/DragGAN,DragGAN,4981
+模型,https://github.com/OpenGVLab/InternImage,InternImage,2727
+模型,https://github.com/OpenGVLab/Ask-Anything,Ask-Anything,3297
+模型,https://github.com/OpenGVLab/InternGPT,InternGPT,3217
+模型,https://github.com/OpenGVLab/InternVideo,InternVideo,2036
+模型,https://github.com/OpenGVLab/VisionLLM,VisionLLM,1103
+模型,https://github.com/OpenGVLab/VideoMamba,VideoMamba,990
+模型,https://github.com/OpenGVLab/OmniQuant,OmniQuant,845
+模型,https://github.com/OpenGVLab/SAM-Med2D,SAM-Med2D,1031
+模型,https://github.com/OpenGVLab/VideoMAEv2,VideoMAEv2,676
+模型,https://github.com/OpenGVLab/GITM,GITM,633
+模型,https://github.com/OpenGVLab/UniFormerV2,UniFormerV2,327
+模型,https://github.com/OpenGVLab/CaFo,CaFo,377
+模型,https://github.com/OpenGVLab/all-seeing,all-seeing,495
+模型,https://github.com/OpenGVLab/LAMM,LAMM,317
+模型,https://github.com/OpenGVLab/unmasked_teacher,unmasked_teacher,337
+模型,https://github.com/OpenGVLab/Vision-RWKV,Vision-RWKV,493
+模型,https://github.com/OpenGVLab/M3I-Pretraining,M3I-Pretraining,91
+模型,https://github.com/OpenGVLab/MM-Interleaved,MM-Interleaved,240
+模型,https://github.com/OpenGVLab/VideoChat-Flash,VideoChat-Flash,463
+模型,https://github.com/OpenGVLab/Mono-InternVL,Mono-InternVL,81
+数据集,https://github.com/OpenGVLab/gv-benchmark,gv-benchmark,189
+数据集,https://github.com/OpenGVLab/EgoExoLearn,EgoExoLearn,69
+数据集,https://github.com/OpenGVLab/OmniCorpus,OmniCorpus,391
+数据集,https://github.com/OpenGVLab/MMT-Bench,MMT-Bench,113
+数据集,https://github.com/OpenGVLab/MM-NIAH,MM-NIAH,115
+数据集,https://github.com/OpenGVLab/GUI-Odyssey,GUI-Odyssey,129
+数据集,https://github.com/OpenGVLab/PhyGenBench,PhyGenBench,117
+工具,https://github.com/OpenGVLab/Multi-Modality-Arena,Multi-Modality-Arena,535
+工具,https://github.com/OpenGVLab/Instruct2Act,Instruct2Act,369
+工具,https://github.com/OpenGVLab/DiffRate,DiffRate,100
+工具,https://github.com/OpenGVLab/ControlLLM,ControlLLM,193
+工具,https://github.com/OpenGVLab/Awesome-DragGAN,Awesome-DragGAN,85
+工具,https://github.com/OpenGVLab/Awesome-LLM4Tool,Awesome-LLM4Tool,68
+工具,https://github.com/OpenGVLab/ZeroGUI,ZeroGUI,85
+其他,https://github.com/OpenGVLab/HumanBench,HumanBench,247
+其他,https://github.com/OpenGVLab/UniHCP,UniHCP,156
+其他,https://github.com/OpenGVLab/LORIS,LORIS,61
+其他,https://github.com/OpenGVLab/MUTR,MUTR,82
+其他,https://github.com/OpenGVLab/DDPS,DDPS,72
+其他,https://github.com/OpenGVLab/DCNv4,DCNv4,664
+其他,https://github.com/OpenGVLab/ChartAst,ChartAst,124
+其他,https://github.com/OpenGVLab/Hulk,Hulk,137
+其他,https://github.com/OpenGVLab/PonderV2,PonderV2,359
+其他,https://github.com/OpenGVLab/LCL,LCL,70
+其他,https://github.com/OpenGVLab/EfficientQAT,EfficientQAT,300
+其他,https://github.com/OpenGVLab/Diffree,Diffree,239
+其他,https://github.com/OpenGVLab/MMIU,MMIU,86
+其他,https://github.com/OpenGVLab/vinci,vinci,71
+其他,https://github.com/OpenGVLab/V2PE,V2PE,56
+其他,https://github.com/OpenGVLab/TPO,TPO,58
+其他,https://github.com/OpenGVLab/VideoChat-R1,VideoChat-R1,182
+其他,https://github.com/OpenGVLab/VeBrain,VeBrain,80
+
+模型,https://github.com/OpenMOSS/MOSS,MOSS,12060
+模型,https://github.com/OpenMOSS/MOSS-TTSD,MOSS-TTSD,941
+模型,https://github.com/OpenMOSS/AnyGPT,AnyGPT,861
+模型,https://github.com/OpenMOSS/SpeechGPT-2.0-preview,SpeechGPT-2.0-preview,354
+工具,https://github.com/OpenMOSS/CoLLiE,CoLLiE,416
+工具,https://github.com/OpenMOSS/Language-Model-SAEs,Language-Model-SAEs,146
+数据集,https://github.com/OpenMOSS/VLABench,VLABench,283
+数据集,https://github.com/OpenMOSS/HalluQA,HalluQA,132
+数据集,https://github.com/OpenMOSS/GAOKAO-MM,GAOKAO-MM,65
+其他,https://github.com/OpenMOSS/Say-I-Dont-Know,Say-I-Dont-Know,83
+其他,https://github.com/OpenMOSS/Thus-Spake-Long-Context-LLM,Thus-Spake-Long-Context-LLM,56
+
+模型（嵌入模型）,https://github.com/OpenSenseNova/piccolo-embedding,piccolo-embedding,138
+
+其他,https://github.com/stepfun-ai/Step-Audio,Step-Audio,4502
+其他,https://github.com/stepfun-ai/Step-Video-T2V,Step-Video-T2V,3105
+其他,https://github.com/stepfun-ai/NextStep-1,NextStep-1,526
+其他,https://github.com/stepfun-ai/Step3,Step3,418
+其他,https://github.com/stepfun-ai/Step-Video-TI2V,Step-Video-TI2V,352
+其他,https://github.com/stepfun-ai/StepMesh,StepMesh,289
+模型,https://github.com/stepfun-ai/Step1X-Edit,Step1X-Edit,1615
+模型,https://github.com/stepfun-ai/Step-Audio2,Step-Audio2,889
+模型,https://github.com/stepfun-ai/Step1X-3D,Step1X-3D,774
+
+其他,https://github.com/Thinklab-SJTU/Awesome-LLM4AD,Awesome-LLM4AD,1454
+其他,https://github.com/Thinklab-SJTU/awesome-ml4co,awesome-ml4co,1950
+其他,https://github.com/Thinklab-SJTU/Awesome-LLM4EDA,Awesome-LLM4EDA,227
+其他,https://github.com/Thinklab-SJTU/awesome-ai4eda,awesome-ai4eda,177
+其他,https://github.com/Thinklab-SJTU/Bench2Drive-VL,Bench2Drive-VL,150
+其他,https://github.com/Thinklab-SJTU/awesome-molecular-docking,awesome-molecular-docking,102
+数据集,https://github.com/Thinklab-SJTU/Bench2Drive,Bench2Drive,1613
+数据集,https://github.com/Thinklab-SJTU/Bench2DriveZoo,Bench2DriveZoo,293
+数据集,https://github.com/Thinklab-SJTU/S2TLD,S2TLD,59
+工具,https://github.com/Thinklab-SJTU/ThinkMatch,ThinkMatch,872
+工具,https://github.com/Thinklab-SJTU/R3Det_Tensorflow,R3Det_Tensorflow,546
+工具,https://github.com/Thinklab-SJTU/pygmtools,pygmtools,339
+工具,https://github.com/Thinklab-SJTU/EDA-AI,EDA-AI,268
+工具,https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow,CSL_RetinaNet_Tensorflow,192
+工具,https://github.com/Thinklab-SJTU/PPO-BiHyb,PPO-BiHyb,100
+工具,https://github.com/Thinklab-SJTU/T2TCO,T2TCO,65
+工具,https://github.com/Thinklab-SJTU/ML4CO-Kit,ML4CO-Kit,58
+模型,https://github.com/Thinklab-SJTU/Crossformer,Crossformer,601
+模型,https://github.com/Thinklab-SJTU/DriveTransformer,DriveTransformer,124
+模型,https://github.com/Thinklab-SJTU/LinSATNet,LinSATNet,73
+模型,https://github.com/Thinklab-SJTU/DriveMoE,DriveMoE,89
+
+1. 模型,https://github.com/TigerResearch/TigerBot,TigerBot,2258
+
+
+1. 模型（3D物体检测模型）,https://github.com/VISION-SJTU/PillarNet-LTS,PillarNet-LTS,223
+1. 模型（3D物体检测模型）,https://github.com/VISION-SJTU/PointAugmenting,PointAugmenting,114
+1. 模型（人脸伪造检测模型）,https://github.com/VISION-SJTU/RECCE,RECCE,147
+1. 模型（神经辐射场模型）,https://github.com/VISION-SJTU/Lightning-NeRF,Lightning-NeRF,117
+1. 模型（3D人脸交换模型）,https://github.com/VISION-SJTU/3dSwap,3dSwap,86
+1. 模型（视觉目标跟踪模型）,https://github.com/VISION-SJTU/USOT,USOT,64
+1. 模型（语义占据预测模型）,https://github.com/VISION-SJTU/SparseOcc,SparseOcc,64
+3. 工具（对抗攻击工具）,https://github.com/VISION-SJTU/IoUattack,IoUattack,53
+

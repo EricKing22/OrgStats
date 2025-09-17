@@ -1,0 +1,83 @@
+**infly/inf-retriever-v1**
+分类：模型
+like数：37
+download数：15612
+最后更新时间：None
+url: https://huggingface.co/infly/inf-retriever-v1
+
+**infly/inf-retriever-v1-1.5b**
+分类：模型
+like数：42
+download数：5996
+最后更新时间：None
+url: https://huggingface.co/infly/inf-retriever-v1-1.5b
+
+**infly/INF-ORM-Llama3.1-70B**
+分类：模型
+like数：26
+download数：3027
+最后更新时间：None
+url: https://huggingface.co/infly/INF-ORM-Llama3.1-70B
+
+**infly/OpenCoder-8B-Instruct**
+分类：模型
+like数：196
+download数：1666
+最后更新时间：None
+url: https://huggingface.co/infly/OpenCoder-8B-Instruct
+
+**infly/OpenCoder-1.5B-Instruct**
+分类：模型
+like数：42
+download数：1228
+最后更新时间：None
+url: https://huggingface.co/infly/OpenCoder-1.5B-Instruct
+
+**infly/OpenCoder-1.5B-Base**
+分类：模型
+like数：22
+download数：1176
+最后更新时间：None
+url: https://huggingface.co/infly/OpenCoder-1.5B-Base
+
+**infly/OpenCoder-8B-Base**
+分类：模型
+like数：28
+download数：1166
+最后更新时间：None
+url: https://huggingface.co/infly/OpenCoder-8B-Base
+
+**infly/inf-wse-v2-base-zh**
+分类：模型
+like数：3
+download数：834
+最后更新时间：None
+url: https://huggingface.co/infly/inf-wse-v2-base-zh
+
+**infly/Infinity-Doc-55K**
+分类：数据集
+like数：6
+download数：172
+最后更新时间：2025-06-30T05:24:10.000Z
+url: https://huggingface.co/infly/Infinity-Doc-55K
+
+**infly/inf-rl-qwen-coder-32b-2746**
+分类：模型
+like数：2
+download数：155
+最后更新时间：None
+url: https://huggingface.co/infly/inf-rl-qwen-coder-32b-2746
+
+**infly/INF-ORM-Preference-Magnitude-80K**
+分类：数据集
+like数：9
+download数：102
+最后更新时间：2024-12-05T17:44:28.000Z
+url: https://huggingface.co/infly/INF-ORM-Preference-Magnitude-80K
+
+**infly/inf-o1-pi0**
+分类：模型
+like数：8
+download数：52
+最后更新时间：None
+url: https://huggingface.co/infly/inf-o1-pi0

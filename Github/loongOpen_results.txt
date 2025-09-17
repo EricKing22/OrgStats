@@ -1,0 +1,24 @@
+**OpenLoong-Dyn-Control**  
+分类：3. 工具（机器人动态控制软件包）  
+star数字：215  
+最后更新时间：2025-09-05  
+项目描述：Whole-Body Dynamics Control Software Package for Humanoid Robots  
+url: https://github.com/loongOpen/OpenLoong-Dyn-Control  
+
+**Unity-RL-Playground**  
+分类：3. 工具（强化学习开发工具包）  
+star数字：151  
+最后更新时间：2025-09-04  
+项目描述：Reinforcement learning and imitation learning toolkits for robotics developers and for everyone.  
+url: https://github.com/loongOpen/Unity-RL-Playground  
+
+**OpenLoong-Gymloong**  
+分类：3. 工具（机器人训练平台）  
+star数字：70  
+最后更新时间：2025-08-28  
+项目描述：Training Platform for Humanoid Robots  
+url: https://github.com/loongOpen/OpenLoong-Gymloong  
+
+---  
+分类依据：  
+所有项目均为机器人开发相关的软件工具包，无模型或数据集描述，故统一归类为「工具」。按 `stars` 降序排列。

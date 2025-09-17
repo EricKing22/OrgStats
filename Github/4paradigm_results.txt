@@ -1,0 +1,43 @@
+**OpenMLDB**  
+分类：2. 数据集  
+star数字：1662  
+最后更新时间：2025-09-02  
+项目描述：OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.  
+url: https://github.com/4paradigm/OpenMLDB  
+
+---
+
+**k8s-vgpu-scheduler**  
+分类：3. 工具  
+star数字：572  
+最后更新时间：2025-09-02  
+项目描述：OpenAIOS vGPU device plugin for Kubernetes is originated from the OpenAIOS project to virtualize GPU device memory, in order to allow applications to access larger memory space than its physical capacity. It is designed for ease of use of extended device memory for AI workloads.  
+url: https://github.com/4paradigm/k8s-vgpu-scheduler  
+
+---
+
+**AutoX**  
+分类：3. 工具  
+star数字：539  
+最后更新时间：2025-08-07  
+项目描述：AutoX is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.  
+url: https://github.com/4paradigm/AutoX  
+
+---
+
+**openaios-platform**  
+分类：4. 其他  
+star数字：98  
+最后更新时间：2025-07-18  
+项目描述：OpenAIOS is an incubating open-source distributed OS kernel based on Kubernetes for AI workloads.  OpenAIOS-Platform is an AI development platform built upon OpenAIOS for enterprises to develop and deploy AI applications for production.  
+url: https://github.com/4paradigm/openaios-platform  
+
+---
+
+**pafka**  
+分类：4. 其他  
+star数字：67  
+最后更新时间：2024-09-23  
+项目描述：Pafka is originated from the OpenAIOS project to leverage an optimized tiered storage access strategy to improve overall performance for streaming/messaging system.  
+url: https://github.com/4paradigm/pafka  
+

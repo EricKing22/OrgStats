@@ -1,0 +1,13 @@
+**ECNU-CILab/ArtAug-lora-FLUX.1dev-v1**
+分类：模型
+like数：8
+download数：95
+最后更新时间：None
+url: https://huggingface.co/ECNU-CILab/ArtAug-lora-FLUX.1dev-v1
+
+**ECNU-CILab/ExVideo-SVD-128f-v1**
+分类：模型
+like数：61
+download数：0
+最后更新时间：None
+url: https://huggingface.co/ECNU-CILab/ExVideo-SVD-128f-v1

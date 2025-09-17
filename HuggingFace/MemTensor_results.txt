@@ -1,0 +1,7 @@
+**MemTensor/MemOperator-0.6B**  
+分类：模型（如大语言模型，多模态模型等）  
+like数：1  
+download数：193  
+最后更新时间：None  
+url: https://huggingface.co/MemTensor/MemOperator-0.6B  
+

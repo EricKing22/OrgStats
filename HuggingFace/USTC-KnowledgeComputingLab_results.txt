@@ -1,0 +1,14 @@
+**USTC-KnowledgeComputingLab/qmb-models**  
+分类：数据集  
+like数：0  
+download数：265  
+最后更新时间：2025-07-01T17:19:41.000Z  
+url: https://huggingface.co/USTC-KnowledgeComputingLab/qmb-models  
+
+**USTC-KnowledgeComputingLab/ElectrolyteBench**  
+分类：数据集  
+like数：3  
+download数：79  
+最后更新时间：2024-10-16T03:58:37.000Z  
+url: https://huggingface.co/USTC-KnowledgeComputingLab/ElectrolyteBench  
+

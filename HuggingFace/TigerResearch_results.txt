@@ -1,0 +1,77 @@
+**TigerResearch/tigerbot-7b-base**  
+分类：模型  
+like数：3  
+download数：1744  
+最后更新时间：None  
+url: https://huggingface.co/TigerResearch/tigerbot-7b-base  
+
+**TigerResearch/tigerbot-70b-base-v2**  
+分类：模型  
+like数：3  
+download数：1743  
+最后更新时间：None  
+url: https://huggingface.co/TigerResearch/tigerbot-70b-base-v2  
+
+**TigerResearch/tigerbot-70b-chat-v4**  
+分类：模型  
+like数：1  
+download数：1730  
+最后更新时间：None  
+url: https://huggingface.co/TigerResearch/tigerbot-70b-chat-v4  
+
+**TigerResearch/tigerbot-7b-sft-v1**  
+分类：模型  
+like数：13  
+download数：1219  
+最后更新时间：None  
+url: https://huggingface.co/TigerResearch/tigerbot-7b-sft-v1  
+
+**TigerResearch/pretrain_zh**  
+分类：数据集  
+like数：115  
+download数：1483  
+最后更新时间：2023-06-14T13:50:32.000Z  
+url: https://huggingface.co/TigerResearch/pretrain_zh  
+
+**TigerResearch/pretrain_en**  
+分类：数据集  
+like数：16  
+download数：456  
+最后更新时间：2023-05-30T10:01:55.000Z  
+url: https://huggingface.co/TigerResearch/pretrain_en  
+
+**TigerResearch/MedCD-notes**  
+分类：数据集  
+like数：0  
+download数：263  
+最后更新时间：2025-01-18T12:22:41.000Z  
+url: https://huggingface.co/TigerResearch/MedCD-notes  
+
+**TigerResearch/tigerbot-13b-base-v1**  
+分类：模型  
+like数：5  
+download数：63  
+最后更新时间：None  
+url: https://huggingface.co/TigerResearch/tigerbot-13b-base-v1  
+
+**TigerResearch/tigerbot-kaggle-recipes-en-2k**  
+分类：数据集  
+like数：1  
+download数：63  
+最后更新时间：2023-05-31T02:23:57.000Z  
+url: https://huggingface.co/TigerResearch/tigerbot-kaggle-recipes-en-2k  
+
+**TigerResearch/sft_zh**  
+分类：数据集  
+like数：47  
+download数：83  
+最后更新时间：2023-06-09T12:21:42.000Z  
+url: https://huggingface.co/TigerResearch/sft_zh  
+
+**TigerResearch/tigerbot-kaggle-leetcodesolutions-en-2k**  
+分类：数据集  
+like数：17  
+download数：60  
+最后更新时间：2023-05-31T02:01:37.000Z  
+url: https://huggingface.co/TigerResearch/tigerbot-kaggle-leetcodesolutions-en-2k  
+

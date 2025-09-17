@@ -1,0 +1,146 @@
+**Awesome-LLM4AD**  
+分类：其他  
+star数字：1454  
+最后更新时间：2025-09-06T02:56:37Z  
+项目描述：A curated list of awesome LLM/VLM/VLA for Autonomous Driving(LLM4AD) resources (continually updated)  
+url: https://github.com/Thinklab-SJTU/Awesome-LLM4AD  
+
+**Bench2Drive**  
+分类：数据集  
+star数字：1613  
+最后更新时间：2025-09-04T15:22:52Z  
+项目描述：[NeurIPS 2024 Datasets and Benchmarks Track] Closed-Loop E2E-AD Benchmark Enhanced by World Model RL Expert  
+url: https://github.com/Thinklab-SJTU/Bench2Drive  
+
+**awesome-ml4co**  
+分类：其他  
+star数字：1950  
+最后更新时间：2025-09-02T02:34:31Z  
+项目描述：Awesome machine learning for combinatorial optzimization papers.  
+url: https://github.com/Thinklab-SJTU/awesome-ml4co  
+
+**ThinkMatch**  
+分类：工具  
+star数字：872  
+最后更新时间：2025-08-31T14:47:22Z  
+项目描述：A research protocol for deep graph matching.  
+url: https://github.com/Thinklab-SJTU/ThinkMatch  
+
+**Crossformer**  
+分类：模型  
+star数字：601  
+最后更新时间：2025-08-28T23:09:16Z  
+项目描述：Official implementation of our ICLR 2023 paper "Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting"  
+url: https://github.com/Thinklab-SJTU/Crossformer  
+
+**R3Det_Tensorflow**  
+分类：工具  
+star数字：546  
+最后更新时间：2025-03-06T05:52:31Z  
+项目描述：Code for AAAI 2021 paper: R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object  
+url: https://github.com/Thinklab-SJTU/R3Det_Tensorflow  
+
+**pygmtools**  
+分类：工具  
+star数字：339  
+最后更新时间：2025-09-05T03:36:44Z  
+项目描述：A Python Graph Matching Toolkit.  
+url: https://github.com/Thinklab-SJTU/pygmtools  
+
+**EDA-AI**  
+分类：工具  
+star数字：268  
+最后更新时间：2025-09-03T03:02:47Z  
+项目描述：Implementations of DeepPlace, PRNet, HubRouter, PreRoutGNN, FlexPlanner and DSBRouter.  
+url: https://github.com/Thinklab-SJTU/EDA-AI  
+
+**Awesome-LLM4EDA**  
+分类：其他  
+star数字：227  
+最后更新时间：2025-09-04T17:29:16Z  
+项目描述：None  
+url: https://github.com/Thinklab-SJTU/Awesome-LLM4EDA  
+
+**awesome-ai4eda**  
+分类：其他  
+star数字：177  
+最后更新时间：2025-09-05T09:58:33Z  
+项目描述：Awesome Artificial Intelligence for Electronic Design Automation Papers.  
+url: https://github.com/Thinklab-SJTU/awesome-ai4eda  
+
+**Bench2Drive-VL**  
+分类：其他  
+star数字：150  
+最后更新时间：2025-09-03T04:04:48Z  
+项目描述：Adapting VLMs to Bench2Drive.  
+url: https://github.com/Thinklab-SJTU/Bench2Drive-VL  
+
+**Bench2DriveZoo**  
+分类：数据集  
+star数字：293  
+最后更新时间：2025-09-05T02:26:45Z  
+项目描述：BEVFormer, UniAD, VAD in Closed-Loop CARLA Evaluation with World Model RL Expert Think2Drive  
+url: https://github.com/Thinklab-SJTU/Bench2DriveZoo  
+
+**CSL_RetinaNet_Tensorflow**  
+分类：工具  
+star数字：192  
+最后更新时间：2025-06-13T20:11:34Z  
+项目描述：Code for ECCV 2020 paper: Arbitrary-Oriented Object Detection with Circular Smooth Label  
+url: https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow  
+
+**awesome-molecular-docking**  
+分类：其他  
+star数字：102  
+最后更新时间：2025-06-29T05:40:34Z  
+项目描述：We would like to maintain a list of resources which aim to solve molecular docking and other closely related tasks.  
+url: https://github.com/Thinklab-SJTU/awesome-molecular-docking  
+
+**PPO-BiHyb**  
+分类：工具  
+star数字：100  
+最后更新时间：2025-05-30T06:38:38Z  
+项目描述：Implementation of our NeurIPS 2021 paper "A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs".  
+url: https://github.com/Thinklab-SJTU/PPO-BiHyb  
+
+**DriveTransformer**  
+分类：模型  
+star数字：124  
+最后更新时间：2025-09-03T12:16:09Z  
+项目描述：None  
+url: https://github.com/Thinklab-SJTU/DriveTransformer  
+
+**LinSATNet**  
+分类：模型  
+star数字：73  
+最后更新时间：2025-09-03T01:46:56Z  
+项目描述：Official implementation of our ICML 2023 paper "LinSATNet: The Positive Linear Satisfiability Neural Networks".  
+url: https://github.com/Thinklab-SJTU/LinSATNet  
+
+**T2TCO**  
+分类：工具  
+star数字：65  
+最后更新时间：2025-09-04T08:55:28Z  
+项目描述：[NeurIPS 2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization  
+url: https://github.com/Thinklab-SJTU/T2TCO  
+
+**S2TLD**  
+分类：数据集  
+star数字：59  
+最后更新时间：2025-05-13T02:06:16Z  
+项目描述：Newly released traffic light dataset for small object detection.  
+url: https://github.com/Thinklab-SJTU/S2TLD  
+
+**ML4CO-Kit**  
+分类：工具  
+star数字：58  
+最后更新时间：2025-09-02T22:18:52Z  
+项目描述：A Python toolkit for Machine Learning (ML) practices for Combinatorial Optimization (CO).  
+url: https://github.com/Thinklab-SJTU/ML4CO-Kit  
+
+**DriveMoE**  
+分类：模型  
+star数字：89  
+最后更新时间：2025-09-04T02:44:18Z  
+项目描述：Drive-Pi0 and DriveMoE on End-to-end Autonomous Driving  
+url: https://github.com/Thinklab-SJTU/DriveMoE

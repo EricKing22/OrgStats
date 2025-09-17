@@ -1,0 +1,7 @@
+**TigerBot**  
+分类：1. 模型  
+star数字：2258  
+最后更新时间：2025-08-18  
+项目描述：TigerBot: A multi-language multi-task LLM  
+url: https://github.com/TigerResearch/TigerBot  
+

@@ -1,0 +1,41 @@
+**fudan-generative-ai/champ_trainning_sample**  
+分类：数据集  
+like数：6  
+download数：978  
+最后更新时间：2024-06-04T01:15:34.000Z  
+url: https://huggingface.co/fudan-generative-ai/champ_trainning_sample  
+
+**fudan-generative-ai/champ_motions_example**  
+分类：数据集  
+like数：2  
+download数：337  
+最后更新时间：2024-04-19T02:30:00.000Z  
+url: https://huggingface.co/fudan-generative-ai/champ_motions_example  
+
+**fudan-generative-ai/hallo3_training_data**  
+分类：数据集  
+like数：7  
+download数：123  
+最后更新时间：2025-04-15T06:00:47.000Z  
+url: https://huggingface.co/fudan-generative-ai/hallo3_training_data  
+
+**fudan-generative-ai/hallo2**  
+分类：模型  
+like数：129  
+download数：0  
+最后更新时间：None  
+url: https://huggingface.co/fudan-generative-ai/hallo2  
+
+**fudan-generative-ai/hallo**  
+分类：模型  
+like数：96  
+download数：0  
+最后更新时间：None  
+url: https://huggingface.co/fudan-generative-ai/hallo  
+
+**fudan-generative-ai/hallo3**  
+分类：模型  
+like数：62  
+download数：0  
+最后更新时间：None  
+url: https://huggingface.co/fudan-generative-ai/hallo3  

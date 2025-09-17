@@ -1,0 +1,21 @@
+**Infinigence/LVEval**  
+分类：数据集  
+like数：13  
+download数：4637  
+最后更新时间：2024-02-10T08:17:11.000Z  
+url: https://huggingface.co/Infinigence/LVEval  
+
+**Infinigence/Megrez-3B-Instruct**  
+分类：模型  
+like数：32  
+download数：1199  
+最后更新时间：None  
+url: https://huggingface.co/Infinigence/Megrez-3B-Instruct  
+
+**Infinigence/Megrez-3B-Omni**  
+分类：模型  
+like数：134  
+download数：18  
+最后更新时间：None  
+url: https://huggingface.co/Infinigence/Megrez-3B-Omni  
+

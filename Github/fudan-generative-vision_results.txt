@@ -1,0 +1,64 @@
+**hallo**  
+分类：模型（音频驱动的肖像图像动画生成模型）  
+star数字：8571  
+最后更新时间：2025-09-05  
+项目描述：Hallo是一个通过分层音频驱动实现肖像图像动画合成的生成模型，具有高保真和可控性。  
+URL: https://github.com/fudan-generative-vision/hallo  
+
+---
+
+**champ**  
+分类：模型（基于3D参数化引导的人类图像动画生成模型）  
+star数字：4232  
+最后更新时间：2025-09-05  
+项目描述：Champ是一个可控且一致的人类图像动画生成框架，结合3D参数化指导，适用于动态场景生成。  
+URL: https://github.com/fudan-generative-vision/champ  
+
+---
+
+**hallo2**  
+分类：模型（长时长高分辨率音频驱动肖像动画生成模型）  
+star数字：3600  
+最后更新时间：2025-09-02  
+项目描述：Hallo2是Hallo的升级版，专注于长时长和高分辨率的音频驱动肖像动画生成，效果更稳定。  
+URL: https://github.com/fudan-generative-vision/hallo2  
+
+---
+
+**hallo3**  
+分类：模型（基于视频扩散Transformer的高动态肖像动画生成模型）  
+star数字：1302  
+最后更新时间：2025-09-05  
+项目描述：Hallo3利用视频扩散Transformer实现高度动态和逼真的肖像图像动画，支持复杂运动合成。  
+URL: https://github.com/fudan-generative-vision/hallo3  
+
+---
+
+**dynamicPDB**  
+分类：数据集（动态蛋白质结构数据库）  
+star数字：762  
+最后更新时间：2025-09-02  
+项目描述：DynamicPDB是一个动态蛋白质数据银行，提供结构生物学领域的高质量时序蛋白质数据。  
+URL: https://github.com/fudan-generative-vision/dynamicPDB  
+
+---
+
+**DicFace**  
+分类：模型（视频人脸修复的变分编码学习模型）  
+star数字：435  
+最后更新时间：2025-08-20  
+项目描述：DicFace通过狄利克雷约束变分编码本学习，实现时序一致的视频人脸修复，适用于低质量视频增强。  
+URL: https://github.com/fudan-generative-vision/DicFace  
+
+---
+
+**OpenHumanVid**  
+分类：数据集（以人为中心的视频生成数据集）  
+star数字：274  
+最后更新时间：2025-09-05  
+项目描述：OpenHumanVid是一个大规模高质量数据集，用于提升以人为中心的视频生成任务的真实性和多样性。  
+URL: https://github.com/fudan-generative-vision/OpenHumanVid  
+
+
+
+注：`TemporalCodeFormer`和`PPFlow`因`stars ≤ 50`被过滤，`diffusion-genAI-course`因`stars = 46`被过滤。

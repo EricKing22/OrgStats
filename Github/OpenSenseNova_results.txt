@@ -1,0 +1,6 @@
+**piccolo-embedding**  
+分类：模型（嵌入模型）  
+star数字：138  
+最后更新时间：2025-08-28  
+项目描述：code for piccolo embedding model from SenseTime  
+url: https://github.com/OpenSenseNova/piccolo-embedding  

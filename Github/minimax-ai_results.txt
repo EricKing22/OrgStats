@@ -1,0 +1,69 @@
+**MiniMax-M1**  
+分类：模型  
+star数字：2844  
+最后更新时间：2025-09-05T02:13:22Z  
+项目描述：MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.  
+url: https://github.com/MiniMax-AI/MiniMax-M1  
+
+---
+
+**MiniMax-01**  
+分类：模型  
+star数字：3137  
+最后更新时间：2025-09-04T01:46:20Z  
+项目描述：The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention.  
+url: https://github.com/MiniMax-AI/MiniMax-01  
+
+---
+
+**MiniMax-MCP**  
+分类：工具  
+star数字：932  
+最后更新时间：2025-09-05T03:57:47Z  
+项目描述：Official MiniMax Model Context Protocol (MCP) server that enables interaction with powerful Text to Speech, image generation and video generation APIs.  
+url: https://github.com/MiniMax-AI/MiniMax-MCP  
+
+---
+
+**One-RL-to-See-Them-All**  
+分类：其他  
+star数字：311  
+最后更新时间：2025-08-25T17:28:07Z  
+项目描述：The official repo of One RL to See Them All: Visual Triple Unified Reinforcement Learning.  
+url: https://github.com/MiniMax-AI/One-RL-to-See-Them-All  
+
+---
+
+**SynLogic**  
+分类：其他  
+star数字：163  
+最后更新时间：2025-08-25T17:28:13Z  
+项目描述：The official repo of SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.  
+url: https://github.com/MiniMax-AI/SynLogic  
+
+---
+
+**awesome-minimax-integrations**  
+分类：工具  
+star数字：54  
+最后更新时间：2025-07-04T00:59:42Z  
+项目描述：Explore these applications integrating MiniMax's multimodal API to see how text, vision, and speech processing capabilities are incorporated into various software.  
+url: https://github.com/MiniMax-AI/awesome-minimax-integrations  
+
+---
+
+**MiniMax-AI.github.io**  
+分类：其他  
+star数字：52  
+最后更新时间：2025-09-01T09:21:11Z  
+项目描述：The official GitHub Page for MiniMax.  
+url: https://github.com/MiniMax-AI/MiniMax-AI.github.io  
+
+---
+
+**MiniMax-MCP-JS**  
+分类：工具  
+star数字：81  
+最后更新时间：2025-09-01T15:32:47Z  
+项目描述：Official MiniMax Model Context Protocol (MCP) JavaScript implementation that provides seamless integration with MiniMax's powerful AI capabilities including image generation, video generation, text-to-speech, and voice cloning APIs.  
+url: https://github.com/MiniMax-AI/MiniMax-MCP-JS  

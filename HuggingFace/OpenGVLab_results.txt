@@ -1,0 +1,482 @@
+**OpenGVLab/InternVL2_5-26B**  
+分类：模型  
+like数：31  
+download数：193035  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-26B  
+
+**OpenGVLab/InternVL3-14B**  
+分类：模型  
+like数：73  
+download数：933553  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-14B  
+
+**OpenGVLab/InternVL2-2B**  
+分类：模型  
+like数：73  
+download数：939404  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2-2B  
+
+**OpenGVLab/InternVL3-38B**  
+分类：模型  
+like数：42  
+download数：178735  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-38B  
+
+**OpenGVLab/InternVL3-1B**  
+分类：模型  
+like数：72  
+download数：85243  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-1B  
+
+**OpenGVLab/InternVL3-78B**  
+分类：模型  
+like数：216  
+download数：441658  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-78B  
+
+**OpenGVLab/InternVL3-8B**  
+分类：模型  
+like数：95  
+download数：287542  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-8B  
+
+**OpenGVLab/InternVL2-1B**  
+分类：模型  
+like数：77  
+download数：189558  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2-1B  
+
+**OpenGVLab/InternVL3-2B**  
+分类：模型  
+like数：36  
+download数：49399  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-2B  
+
+**OpenGVLab/InternVL3_5-4B-AWQ**  
+分类：模型  
+like数：7  
+download数：156138  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-4B-AWQ  
+
+**OpenGVLab/InternVL2-8B**  
+分类：模型  
+like数：177  
+download数：37271  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2-8B  
+
+**OpenGVLab/InternVL2_5-2B**  
+分类：模型  
+like数：29  
+download数：41163  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-2B  
+
+**OpenGVLab/InternVL2_5-4B**  
+分类：模型  
+like数：52  
+download数：47375  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-4B  
+
+**OpenGVLab/InternVL2_5-8B**  
+分类：模型  
+like数：93  
+download数：34893  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-8B  
+
+**OpenGVLab/InternViT-300M-448px-V2_5**  
+分类：模型  
+like数：44  
+download数：42806  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternViT-300M-448px-V2_5  
+
+**OpenGVLab/InternVideo2_5_Chat_8B**  
+分类：模型  
+like数：82  
+download数：29344  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B  
+
+**OpenGVLab/InternVL2-40B**  
+分类：模型  
+like数：94  
+download数：12448  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2-40B  
+
+**OpenGVLab/InternVL2_5-1B**  
+分类：模型  
+like数：61  
+download数：16673  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-1B  
+
+**OpenGVLab/InternVL3_5-30B-A3B**  
+分类：模型  
+like数：31  
+download数：23024  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-1B  
+
+**OpenGVLab/pvt_v2_b0**  
+分类：模型  
+like数：2  
+download数：24321  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/pvt_v2_b0  
+
+**OpenGVLab/InternVL2-26B**  
+分类：模型  
+like数：118  
+download数：23989  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2-26B  
+
+**OpenGVLab/InternVL2-4B**  
+分类：模型  
+like数：53  
+download数：27750  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2-4B  
+
+**OpenGVLab/InternVL3_5-8B**  
+分类：模型  
+like数：51  
+download数：7826  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-8B  
+
+**OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview**  
+分类：模型  
+like数：61  
+download数：12332  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview  
+
+**OpenGVLab/InternVL3_5-241B-A28B**  
+分类：模型  
+like数：117  
+download数：2673  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B  
+
+**OpenGVLab/InternVL3_5-1B**  
+分类：模型  
+like数：12  
+download数：16912  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-1B  
+
+**OpenGVLab/InternViT-300M-448px**  
+分类：模型  
+like数：55  
+download数：2712  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternViT-300M-448px  
+
+**OpenGVLab/Mini-InternVL-Chat-2B-V1-5**  
+分类：模型  
+like数：72  
+download数：10106  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-2B-V1-5  
+
+**OpenGVLab/InternVL3_5-38B**  
+分类：模型  
+like数：24  
+download数：6596  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-38B  
+
+**OpenGVLab/InternVL3_5-4B**  
+分类：模型  
+like数：20  
+download数：4042  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-4B  
+
+**OpenGVLab/InternVL3_5-14B**  
+分类：模型  
+like数：18  
+download数：3643  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-14B  
+
+**OpenGVLab/InternVL3_5-2B**  
+分类：模型  
+like数：10  
+download数：7707  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-2B  
+
+**OpenGVLab/InternVL3_5-1B-Instruct**  
+分类：模型  
+like数：5  
+download数：2920  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-1B-Instruct  
+
+**OpenGVLab/InternVL3_5-14B-Instruct**  
+分类：模型  
+like数：6  
+download数：1706  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-14B-Instruct  
+
+**OpenGVLab/InternVL3_5-2B-Instruct**  
+分类：模型  
+like数：2  
+download数：10865  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-2B-Instruct  
+
+**OpenGVLab/InternVL3_5-4B-Instruct**  
+分类：模型  
+like数：2  
+download数：908  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-4B-Instruct  
+
+**OpenGVLab/InternVL3_5-30B-A3B-Instruct**  
+分类：模型  
+like数：10  
+download数：558  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-30B-A3B-Instruct  
+
+**OpenGVLab/InternVL3_5-241B-A28B-Instruct**  
+分类：模型  
+like数：16  
+download数：78  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-Instruct  
+
+**OpenGVLab/InternVL3_5-8B-Instruct**  
+分类：模型  
+like数：7  
+download数：720  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-8B-Instruct  
+
+**OpenGVLab/InternVL3_5-38B-Instruct**  
+分类：模型  
+like数：2  
+download数：975  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-38B-Instruct  
+
+**OpenGVLab/InternVL3-1B-Instruct**  
+分类：模型  
+like数：9  
+download数：9932  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-1B-Instruct  
+
+**OpenGVLab/InternVL3-2B-Instruct**  
+分类：模型  
+like数：5  
+download数：37825  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-2B-Instruct  
+
+**OpenGVLab/InternVL3-38B-Instruct**  
+分类：模型  
+like数：7  
+download数：3833  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-38B-Instruct  
+
+**OpenGVLab/InternVL3-14B-Instruct**  
+分类：模型  
+like数：9  
+download数：1766  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-14B-Instruct  
+
+**OpenGVLab/InternVL3-8B-Instruct**  
+分类：模型  
+like数：10  
+download数：12228  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-8B-Instruct  
+
+**OpenGVLab/InternVL3-9B-Instruct**  
+分类：模型  
+like数：4  
+download数：212  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-9B-Instruct  
+
+**OpenGVLab/InternVL3-78B-Instruct**  
+分类：模型  
+like数：8  
+download数：1294  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-78B-Instruct  
+
+**OpenGVLab/InternVL3-1B-Pretrained**  
+分类：模型  
+like数：3  
+download数：136  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-1B-Pretrained  
+
+**OpenGVLab/InternVL3-8B-Pretrained**  
+分类：模型  
+like数：0  
+download数：92  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-8B-Pretrained  
+
+**OpenGVLab/InternVL3-1B-AWQ**  
+分类：模型  
+like数：2  
+download数：80  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-1B-AWQ  
+
+**OpenGVLab/InternVL3-2B-AWQ**  
+分类：模型  
+like数：1  
+download数：123  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-2B-AWQ  
+
+**OpenGVLab/InternVL3-8B-AWQ**  
+分类：模型  
+like数：8  
+download数：16394  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-8B-AWQ  
+
+**OpenGVLab/InternVL3-14B-AWQ**  
+分类：模型  
+like数：7  
+download数：5161  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-14B-AWQ  
+
+**OpenGVLab/InternVL3-38B-AWQ**  
+分类：模型  
+like数：4  
+download数：1274  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-38B-AWQ  
+
+**OpenGVLab/InternVL3-78B-AWQ**  
+分类：模型  
+like数：10  
+download数：1902  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-78B-AWQ  
+
+**OpenGVLab/InternVL3-2B-hf**  
+分类：模型  
+like数：3  
+download数：11089  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-2B-hf  
+
+**OpenGVLab/InternVL3-8B-hf**  
+分类：模型  
+like数：9  
+download数：20708  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-8B-hf  
+
+**OpenGVLab/InternVL3-14B-hf**  
+分类：模型  
+like数：0  
+download数：4159  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-14B-hf  
+
+**OpenGVLab/InternVL3-38B-hf**  
+分类：模型  
+like数：3  
+download数：1561  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-38B-hf  
+
+**OpenGVLab/InternVL3-78B-hf**  
+分类：模型  
+like数：2  
+download数：555  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3-78B-hf  
+
+**OpenGVLab/InternVL2_5-2B-MPO-hf**  
+分类：模型  
+like数：0  
+download数：4696  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-2B-MPO-hf  
+
+**OpenGVLab/InternVL2_5-8B-MPO-hf**  
+分类：模型  
+like数：0  
+download数：968  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL2_5-8B-MPO-hf  
+
+**OpenGVLab/VideoChat-R1_7B_caption**  
+分类：模型  
+like数：2  
+download数：1269  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/VideoChat-R1_7B_caption  
+
+**OpenGVLab/Docopilot-2B**  
+分类：模型  
+like数：8  
+download数：83  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/Docopilot-2B  
+
+**OpenGVLab/Docopilot-8B**  
+分类：模型  
+like数：3  
+download数：160  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/Docopilot-8B  
+
+**OpenGVLab/InternVL3_5-241B-A28B-MPO**  
+分类：模型  
+like数：2  
+download数：201  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B-MPO  
+
+**OpenGVLab/InternVL3_5-38B-MPO**  
+分类：模型  
+like数：2  
+download数：128  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-38B-MPO  
+
+**OpenGVLab/InternVL3_5-38B-Pretrained**  
+分类：模型  
+like数：2  
+download数：82  
+最后更新时间：None  
+url: https://huggingface.co/OpenGVLab/InternVL3_5-38B-Pretrained  
+
+**OpenGVLab/InternVL3_5-30B-A3B-MPO**  
+分类：模型  
+like数：3  
+download数：112  
+最后更新时间：None  
+url: https://huggingface.co

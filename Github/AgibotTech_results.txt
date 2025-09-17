@@ -1,0 +1,48 @@
+**agibot_x1_infer**  
+分类：1. 模型  
+star数字：1717  
+最后更新时间：2025-09-06  
+项目描述：The inference module for AgiBot X1.  
+url: https://github.com/AgibotTech/agibot_x1_infer  
+
+**agibot_x1_train**  
+分类：1. 模型  
+star数字：1563  
+最后更新时间：2025-09-02  
+项目描述：The reinforcement learning training code for AgiBot X1.  
+url: https://github.com/AgibotTech/agibot_x1_train  
+
+**agibot_x1_hardware**  
+分类：4. 其他  
+star数字：978  
+最后更新时间：2025-09-05  
+项目描述：The hardware design for AgiBot X1.  
+url: https://github.com/AgibotTech/agibot_x1_hardware  
+
+**Genie-Envisioner**  
+分类：4. 其他  
+star数字：240  
+最后更新时间：2025-09-06  
+项目描述：None  
+url: https://github.com/AgibotTech/Genie-Envisioner  
+
+**genie_sim**  
+分类：3. 工具  
+star数字：273  
+最后更新时间：2025-09-05  
+项目描述：The Simulation Framework from AgiBot  
+url: https://github.com/AgibotTech/genie_sim  
+
+**EnerVerse-AC**  
+分类：1. 模型  
+star数字：111  
+最后更新时间：2025-09-06  
+项目描述：Official Code for EnerVerse-AC: Envisioning EmbodiedEnvironments with Action Condition  
+url: https://github.com/AgibotTech/EnerVerse-AC  
+
+**EWMBench**  
+分类：2. 数据集  
+star数字：82  
+最后更新时间：2025-08-30  
+项目描述：Official code for EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models  
+url: https://github.com/AgibotTech/EWMBench
